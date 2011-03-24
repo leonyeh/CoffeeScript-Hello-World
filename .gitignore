@@ -1,0 +1,16 @@
+.DS_Store
+*.pyc
+build/iphone/*
+
+res/
+res/*
+
+Resources/cache
+Resources/cache/*
+Resources/js/*.js
+
+build/android/AndroidManifest.xml
+build/android/*
+
+
+

@@ -1,0 +1,18 @@
+/* English */
+[Ti.Platform.locale="en" || Ti.Platform.locale="en-US"] {
+  #Window1 { title: 'Tab One',backgroundColor: '#ccc' }
+  #Window2 { title: 'Tab Two' }
+  #Tab1 { title: '标签一' }
+  #Tab2 { title: '搜索自行车' }
+  #Label1 { text: 'Witamy w Krakowie',backgroundColor: '#ccc' }
+  #Label2 { text: 'I am Window Two' }
+}
+/* Spanish */
+[Ti.Platform.locale="es" || Ti.Platform.locale="en-ES"] {
+  #Window1 { title: 'Solapa Uno' }
+  #Window2 { title: 'Solapa Dos' }
+  #Tab1 { title: 'Solapa Uno' }
+  #Tab2 { title: 'Solapa Dos' }
+  #Label1 { text: 'Soy la Ventana Uno' }
+  #Label2 { text: 'Soy la Ventana Dos' }
+}
